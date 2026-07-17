@@ -29,14 +29,11 @@ A simple and interactive **Student Management System** built with **Python** usi
 ## 📂 Project Structure
 
 ```text
-Student-Management-System/
+Student-Management-System-By-Using-OOPS/
 │
-├── student_management.py    # Main Python program
-└── README.md                # Project documentation
+├── Student management system oops.py
+└── README.md
 ```
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -48,19 +45,19 @@ Student-Management-System/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/student-management-system.git
+git clone https://github.com/ganesh22062004/Student-Management-System-By-Using-OOPS.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd student-management-system
+cd Student-Management-System-By-Using-OOPS
 ```
 
 3. Run the application:
 
 ```bash
-python student_management.py
+python "Student management system oops.py"
 ```
 
 ---
@@ -184,9 +181,9 @@ This project is licensed under the **MIT License**. You are free to use, modify,
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ganesh Pattiguda**
 
-* GitHub: https://github.com/your-username
-* LinkedIn: https://linkedin.com/in/your-profile
+* GitHub: https://github.com/ganesh22062004
+* LinkedIn: https://www.linkedin.com/in/ganesh-pattiguda/
 
 > If you found this project helpful, consider giving it a ⭐ on GitHub.
